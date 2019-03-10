@@ -1,12 +1,14 @@
-body	{background-image: url(wallpaper.jpg); background-repeat: no-repeat;background-size:1080px }
+body	{background-image: url(wallpaper.jpg); background-repeat: no-repeat;background-size:2000px; background-position: center; }
 
 h1		{text-align: center; font-size: 80px; color: #ff9999;
 	border:10px;border-style:double;border-color:#ff9999; font-family: cursive;}
 
-li		{font-family: cusive; text-align: center}
+li		{font-family: cursive; text-align: center}
 
-h2		{text-align: center;}
+h2		{text-align: center; font-family: cursive; ;color: black; border:10px;border-top: double;border-color: #ff9999}
 
-p 		{text-align: center; color: black; font-family: cursive;}
+h3		{text-align: center;font-family: cursive; color:black; border: 5px;border-style: dashed;border-color:#ff9999 }
+
+p 		{text-align: center; color: black; font-family: cursive; font-size: 18px}
 
 img 	{list-style-image: center;}
